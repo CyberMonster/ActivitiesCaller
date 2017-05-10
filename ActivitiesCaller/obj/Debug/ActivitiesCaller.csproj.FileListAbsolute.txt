@@ -1,0 +1,10 @@
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\bin\Debug\ActivitiesCaller.exe.config
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\bin\Debug\ActivitiesCaller.exe
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\bin\Debug\ActivitiesCaller.pdb
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\obj\Debug\ActivitiesCaller.csprojResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\obj\Debug\ActivitiesCaller.Form1.resources
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\obj\Debug\ActivitiesCaller.Properties.Resources.resources
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\obj\Debug\ActivitiesCaller.csproj.GenerateResource.Cache
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\obj\Debug\ActivitiesCaller.exe
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\obj\Debug\ActivitiesCaller.pdb
+c:\users\олег\documents\visual studio 2017\Projects\ActivitiesCaller\ActivitiesCaller\obj\Debug\ActivitiesCaller.Form2.resources
